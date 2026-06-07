@@ -1,7 +1,5 @@
 # DAWENTORNOCLIENTELRVS
 TrabajoEnfoque_DavanteDent_LRVS
-# DAWENTORNOCLIENTELRVS
-TrabajoEnfoque_DavanteDent_LRVS
 # 🦷 DavanteDent - Gestión de Citas Odontológicas
 
 ![Logo DavanteDent](img/davantedent.png)
